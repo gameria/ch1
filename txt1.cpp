@@ -1,3 +1,4 @@
+
 //1st Code
 #include<bits/stdc++.h>
 #define gc getchar_unlocked
